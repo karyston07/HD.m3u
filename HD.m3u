@@ -1,0 +1,47 @@
+EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvJC8XV2R6XlnChxr9t-EvTIEGgefIRlUNaA&usqp=CAU" group-title="GLOBO SP HD",
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/globosp_cfe21c68_9b5180087a6e678c6104c94b50ed54ec433f6431/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIpmIlIiCFaAw_ycjEdbloYGwwi5RuD-Sz-OS3Ot0BXBYKn3E6xBWRWO0&s=10" group-title="GLOBO NORDESTE HD",https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globonordeste_acf10f2c_587e9fbf0a2e30ff2b0ca7584aafa9192cd9f058/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjtclFy6MQr4qKwxAVe-GtqwflvIc6MLDV9Q&usqp=CAU" group-title="GLOBO RJ HD",https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globorj_bc15c774_858d48fc9d542e24db8cdf0128e68675d349fc18/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnnOzUlVBKgH581EaDx4D4QV8X6U0FpwhqLw&usqp=CAU" group-title="GLOBO NEWS HD",https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globonews_dc685e2c_9e067efe353d4872f346e2fa72c3ac6ae1f327c0/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-ONndPPog9_t6PIwkUHEZN8TJX856QU-pkA&usqp=CAU" group-title="+ GLOBO SAT HD",https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/globosat_30222b26_cf08b0165a720d857f8b0df5a4b343900016d653/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1pl6MuvyjTOoijRcx_t1LVDgI8HhWImWVOQ&usqp=CAU" group-title="TLC HD",https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tlc_15aa0c7e_2ce98605b33b8c85c38ccdd47b8e5e84b8767860/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRSrXscecukI_jylVe04ltaQJGZtPxTs-qGOA&usqp=CAU" group-title="DISCOVERY WOPRD HD",https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoveryworld_68b79337_1bb95ec9b95e6d47250802afabd3eaf6ff0d6ca7/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQCCm6wyive7nJyCTQEyZM8a-wJTSmRZ4Oxw&usqp=CAU" group-title="DISCOVERY TURBO HD",https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoveryturbo_ca3512f4_f7c911670e1137ff2c0e9e3e4ad96eeac3f715ac/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQighh5mnxxvcxvOYG43QHBvYzGAsj2Su7d-Q&usqp=CAU" group-title="DISCOVERY CHANEL HD",https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoverychannel_af3e1334_c8a9adca09eb26f2b776aa4518fd52feefa136ed/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYCOOxOTHeXK0L7UsmFR7dqUfi5tnwOA1PWw&usqp=CAU" group-title="DISCOVERY SCIENCE HD",https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoveryscience_77c8184f_c44cf9bdd79364bbd333ae2bf172b2b1ebddee6c/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQi7IEUM270PGxPjYxUk4oLPMgZ5UpsSHKltA&usqp=CAU" group-title="DISCOVERY THEATER HD",https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/discoverytheater_904f2cc1_62d6fc4268e14c1a559b5f9c7ce59dffbb6acf69/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRveL0Z6M1dmEwsn1dtlh-_UrmRRjcKP1qFhQ&usqp=CAU" group-title="DISCOVERY CIVILIZATION HD",https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/hgtv_2473f015_9cb3184ef28fe067df165a53107e80219f4c022e/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrYRk04RRXcC_jkBjfGmj2oSjut8RJ3Lx8Ug&usqp=CAU" group-title="INVESTIGAÇAO DISCOVERY HD ",https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/investigacaodiscovery_4d134bc0_3aa7a6545b6abc2518a470769a89c13b8bedf99a/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvtiGilX_8GdTAY7OosAAw4XmVSVeENCLZ0w&usqp=CAU" group-title="DISCOVERY HOME & HEALTH",https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/discoveryhomehealth_84582c1d_681e90c1033fd2560c20332f89c7dc16cb81794c/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoGB7Ifc8mDTI8NalOh34bG7IqJ_RRyAAoaw&usqp=CAU" group-title="TELECINE ACTION HD",https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecineactionhd_be2793cd_ace48bc81e1121f06093281b65e1b7c148d90fc8/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtbijh7rel4-OTe5MqoSnSoJ__g0Bl6RFSsQ&usqp=CAU" group-title="TELECINE PIPOCA HD",https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinepipocahd_ae7329c9_c6a0025611d383e0b7f2cb3aeb00eb6c44cf02d9/playlist.m3u8
